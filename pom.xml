@@ -5,6 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>GildedRose-Refactoring-Kata-SOFTENG310</name>
   <description>GildedRose-Refactoring-Kata-SOFTENG310</description>
+<properties>
+  <sonar.organization>nbel806</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   <dependencies>
     <dependency>
 		  <groupId>org.junit.jupiter</groupId>
